@@ -1,0 +1,3 @@
+The data is avaiable in the file named "Calibrated Parameters - Normalized_Final.xlsx" for different experimental scenarios. 
+The related code for data is avaiable in file named "S_Deg.mlx" and "S_Deg_Fmin.m". 
+The NSE calculation are provided in the file named "AIC criteria NSE and P value Calculation.xlsx".
